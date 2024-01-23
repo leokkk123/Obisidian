@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "leetcode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "703ca05c7603f6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "temp.md"
               }
             }
           }
@@ -146,11 +159,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "153d6bf99485b4e3",
+  "active": "703ca05c7603f6dd",
   "lastOpenFiles": [
-    "Obisidian",
-    "README.md",
+    "leetcode.md",
+    "github.md",
+    "总结.md",
+    "temp.md",
     "未命名.canvas",
-    "Welcome.md"
+    "Welcome.md",
+    "README.md",
+    "Pasted image 20240121215149.png",
+    "Pasted image 20240121221309.png",
+    "环境初始化.md",
+    "Obisidian"
   ]
 }
